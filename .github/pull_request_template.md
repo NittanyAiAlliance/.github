@@ -1,9 +1,3 @@
-# These changes relate to issue:
- - #{issue_num}
-
-# These changes do the following:
- - List changelog items here
-
 ## These changes relate to issue:
  - This PR is for task #{insert issue number here}
 
